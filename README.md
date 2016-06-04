@@ -1,4 +1,5 @@
 # python-notebooks
 
+These are copied from
 http://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/tree/master/
-- modified for Python 3.5 and some changes 
+and modified for Python 3.5. Some additional changes and tests also made. 
