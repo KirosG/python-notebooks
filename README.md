@@ -1,5 +1,9 @@
 # python-notebooks
 
+## running
+http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+click jupyter notebook or in a terminal
+
 ## notebooks 0,1,...
 These are copied from
 http://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/tree/master/
